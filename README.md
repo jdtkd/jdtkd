@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ✨ Software Developer✨ 
-je suis fan de developpement web et d'automatisation
+je suis fan de developpement web front-end et d'automatisation du flow de travail
 
 Here are some ideas to get you started:
 
